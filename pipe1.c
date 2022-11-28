@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<sys/types.h>
 #include<sys/wait.h>
+#include<unistd.h>
 int main()
 {
 	int fd[2],r,rv,buf[50];
