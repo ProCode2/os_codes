@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.erb": "erb",
+    "*.js": "javascriptreact",
+    "*dmd": "markdown",
+    "pthread.h": "c"
+  }
+}
